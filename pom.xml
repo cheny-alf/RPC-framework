@@ -179,6 +179,9 @@
         <module>RPC-server</module>
         <module>RPC-register</module>
         <module>RPC-registry-zookeeper</module>
+        <module>RPC-sample-api</module>
+        <module>RPC-server-sample</module>
+        <module>RPC-client-sample</module>
     </modules>
 
 

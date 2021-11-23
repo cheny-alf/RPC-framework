@@ -7,11 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="RPC-registry-zookeeper" />
-        <module name="rpc-client" />
-        <module name="RPC-register" />
+        <module name="RPC-server-sample" />
         <module name="rpc-common" />
+        <module name="RPC-registry-zookeeper" />
+        <module name="RPC-sample-api" />
+        <module name="RPC-client-sample" />
+        <module name="RPC-register" />
         <module name="rpc-server" />
+        <module name="rpc-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
